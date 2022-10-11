@@ -1,0 +1,21 @@
+{
+    "name": "The Web3 Nerd v2",
+    "description": "Hosts podcasts on Web 3.0, the decentralized web, cryptocurrencies, tokenomics, etc.",
+    "image": "ipfs://QmfLLCi4uAz4aBVQMgnJKFGWCz8BzY4yTzaGcJ4N8oEonC/0.png",
+    "external_url": "",
+    "background_color": "",
+    "attributes": [
+        {
+            "trait_type": "type",
+            "value": "podcaster"
+        },
+        {
+            "trait_type": "data",
+            "value": "ipfs://QmfLLCi4uAz4aBVQMgnJKFGWCz8BzY4yTzaGcJ4N8oEonC/1.json"
+        },
+        {
+            "trait_type": "category",
+            "value": "web3"
+        }
+    ]
+}

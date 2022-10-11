@@ -1,0 +1,24 @@
+[
+    {
+        "owner": "0xe08598a5c18037b97E494090E959646543306F9a",
+        "metadata": {
+            "name": "The Tech Guru",
+            "description": "Hosts tech podcasts!",
+            "image": "https://gateway.ipfscdn.io/ipfs/QmQzVoznDqPrWKgzP9vvC3mqYqYPXh3nqoupyFu8oPCRUp/2.png",
+            "attributes": [
+                {
+                    "trait_type": "category",
+                    "value": "technology"
+                },
+                {
+                    "trait_type": "slug",
+                    "value": "tech-guru"
+                }
+            ],
+            "id": "2",
+            "uri": "ipfs://Qmb98UUbL8kKxEgmBf3RNyLhubVSq1hDDdQ67zQggaCxAK/2"
+        },
+        "type": "ERC721",
+        "supply": 1
+    }
+]
